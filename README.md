@@ -11,6 +11,12 @@ When a VSTS pull request is created or updated, VSTS sends a notification to an 
 # How to deploy
 
 ## deploy ARM template
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fwenwu449%2Fvsts-pr-reviewer%2Fmaster%2Fazuredeploy.json" target="_blank">
+    <img src="http://azuredeploy.net/deploybutton.png"/>
+</a>
+<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fwenwu449%2Fvsts-pr-reviewer%2Fmaster%2Fazuredeploy.json" target="_blank">
+    <img src="http://armviz.io/visualizebutton.png"/>
+</a>
 
 ## Auth ACI
 
